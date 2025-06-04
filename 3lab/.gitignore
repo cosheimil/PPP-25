@@ -1,0 +1,28 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# SQLite база данных
+fuzzy.db
+
+# Alembic
+alembic/versions/*.pyc
+alembic/versions/*.pyo
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.swp
+
+# IDE (например, VSCode, PyCharm и др.)
+.vscode/
+.idea/
+
+# OS файлы
+.DS_Store
+Thumbs.db

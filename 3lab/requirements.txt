@@ -1,0 +1,16 @@
+dotenv
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+alembic
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+aiofiles
+celery
+redis
+websockets
+pydantic[email]
+requests
+colorama
